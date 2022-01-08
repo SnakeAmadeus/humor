@@ -1,3 +1,3 @@
 def random():
-  # This value is randomly generated with a dice when writing this code
+  # This value was randomly generated with a dice when writing this code
   return 4

@@ -1,3 +1,2 @@
 def random():
-  # This value was randomly generated with a dice when writing this code
-  return 4
+  return input("Go roll a dice, then put the number here:")
